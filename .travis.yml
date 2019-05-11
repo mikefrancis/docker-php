@@ -1,0 +1,9 @@
+service:
+  - docker
+
+install:
+  - docker build -t test-img .
+  - docker run -d -p 8000:8000 -v $(pwd):/opt --name test-container test-img
+
+script:
+  - docker ps | grep -q test-container
