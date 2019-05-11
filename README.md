@@ -1,5 +1,7 @@
 # docker-php
 
+[![Build Status](https://travis-ci.com/mikefrancis/docker-php.svg?branch=master)](https://travis-ci.com/mikefrancis/docker-php)
+
 Just a Docker image containing the bare minimum to run `composer create-project`.
 
 ## Usage
