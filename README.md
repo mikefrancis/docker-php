@@ -1,6 +1,6 @@
 # docker-php
 
-[![Build Status](https://travis-ci.com/mikefrancis/docker-php.svg?branch=master)](https://travis-ci.com/mikefrancis/docker-php)
+[![Build Status](https://travis-ci.com/mikefrancis/docker-php.svg?branch=master)](https://travis-ci.com/mikefrancis/docker-php) [![](https://images.microbadger.com/badges/version/mikefrancis/docker-php.svg)](https://microbadger.com/images/mikefrancis/docker-php "Get your own version badge on microbadger.com")
 
 Just a Docker image containing the bare minimum to run `composer create-project`.
 
